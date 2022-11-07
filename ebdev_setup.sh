@@ -4,7 +4,7 @@ set -euo pipefail
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 SP_TENANT=72f988bf-86f1-41af-91ab-2d7cd011db47
 SP_APPID=30f76dd2-a2d9-4abb-acad-c298b8ac04c4
-SP_PWD='7Fp7Q~tdXCjP1QjFmLzSlKiLqlZAR5ZGOFNBJ'
+SP_PWD='<dv-cvmfs-ebdev-sp>'
 RESOURCE_GROUP_NAME=dv-ebdev
 STORAGE_ACCOUNT_NAME=ebdevcvmfs
 KEYVAULT_NAME=ebdevkv
